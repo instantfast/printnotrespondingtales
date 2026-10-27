@@ -1,4 +1,4 @@
-Canon Printer Not Responding: Connection and Printing Guide
+Canon Printer Not Responding: Printing Guide
 ===========================================================
 
 A Canon printer not responding message means your computer could not complete communication with the selected printer. The printer may be switched on, but documents remain in the queue or fail to start printing.
